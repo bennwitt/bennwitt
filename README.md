@@ -1,5 +1,7 @@
 # Benn Witt – AI Engineer | Technologist | Product Builder
 
+***“I currently build AI solutions that empower people, not replace them.”***
+
 > Proven cross-functional leader in AI product development, platform engineering, and operational infrastructure. I bring velocity, clarity, and delivery to every engagement — from ideation to production-scale deployment.
 
 ---
