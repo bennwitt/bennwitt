@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bennjogami  
+# 👋 Hey, I'm Benn
 🎨 Technologist | 🧠 AI Engineer | 🔧 Infrastructure Veteran | 🎸 Creative Soul  
 
 > _"Dying to Live" isn't just my mantra — it's how I show up to every system, every product, every problem._  
