@@ -6,7 +6,7 @@
 
 ## 👤 Summary
 
-I’m an experienced technologist with a unique blend of **deep infrastructure expertise**, **GenAI/ML engineering capability**, and **product management expierence**. With a foundation in global-scale IT operations, I’ve led the evolution of complex systems into modern AI-driven solutions — serving enterprise, media, and nonprofit sectors.
+I’m an experienced technologist with a unique blend of **deep infrastructure expertise**, **GenAI/ML engineering capability**, and **product services management expierence**. With a foundation in global-scale IT operations, I’ve led the evolution of complex systems into modern AI-driven solutions — serving enterprise, media, and nonprofit sectors.
 
 Key strengths include:
 - Full-stack AI product ownership: ideation → prototype → pilot → general availability
