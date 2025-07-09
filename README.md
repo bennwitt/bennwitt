@@ -23,14 +23,14 @@ Key strengths include:
 ### **Moore** – *AI Product Builder*
 > **AI strategy and implementation for the finest nonprofit marketing data CoOp agency in the U.S.**
 
-- Partnered with executive leadership to define and deliver AI-powered tools for fundraising strategy
+- Partnered with executive leadership and creative teams to define and deliver AI-powered tools for fundraising creative strategy
 - Led user research, product definition, and rollout across multiple creative agencies
 - Delivered tools that analyze sentiment, creative impact, and campaign success across channels (Direct Mail, TV, Social, CTV, Email)
 - Applications:
-  - **CopyThat** – AI-driven copy variant generator for fundraising
-  - **SCENE** – Cross-channel creative sentiment search engine
-  - **MUSE** – Campaign strategy and insight platform (700+ data signals)
-  - **vidCap** – Intelligent video content summarization and quiz system
+  - **CopyVariantAi** – AI-driven copy variant generator for fundraising
+  - **ContentSentimentAi** – Cross-channel creative sentiment catalog creation and search engine
+  - **CreativeStratAi** – Campaign strategy and insight platform (700+ data signals)
+  - **VideoLearningAi** – Intelligent video content insight, summarization and quiz system
 
 **Scope:** Product strategy · UX feedback loops · agency enablement · POCs to GA
 
