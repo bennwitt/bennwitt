@@ -1,6 +1,6 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
 
-# Benn – AI Technologist · Product Builder · Demo Architect in Spirit
+# Benn – AI Technologist · Product Builder · Technologist
 
 > Building things that explain themselves. Demos, tools, and systems that don’t just “work” — they speak, teach, and convert.
 
