@@ -45,7 +45,7 @@ I live at the intersection of:
 |-----------|--------------|----------------|
 | **CopyThat** | AI copy variant generator | 10x productivity tool for fundraisers and creatives |
 | **SCENE** | Cross-channel sentiment search | Internal insight tool that demos emotional tone across media |
-| **MUSE** | Campaign strategy analysis engine | ~700 data points visualized for performance and creative decision-making |
+| **MUSE** | Creative campaign strategy analysis engine | ~700 data points visualized for performance and creative decision-making |
 | **vidCap** | AI-powered video content analyzer | Chapters, summaries, quizzes, clips — all generated and demo-ready |
 
 ---
@@ -69,13 +69,95 @@ I live at the intersection of:
 
 ---
 
+## 💼 Experience Highlights
+
+### **Moore** – *AI Product Lead / Product Manager*
+> **AI strategy and implementation for the largest nonprofit marketing agency in the U.S.**
+
+- Partnered with executive leadership to define and deliver AI-powered tools for fundraising strategy and human efficiencies
+- Led user research, product definition, and rollout across multiple creative agencies
+- Delivered tools that analyze sentiment, creative impact, and campaign success across channels (Direct Mail, TV, Social, CTV, Email)
+- Applications:
+  - **CopyThat** – AI-driven copy variant generator for fundraising
+  - **SCENE** – Cross-channel creative sentiment search engine
+  - **MUSE** – Creative Campaign strategy and insight platform (700+ data signals)
+  - **vidCap** – Intelligent video content summarization and quiz system
+
+**Scope:** Product strategy · UX feedback loops · Executive enablement · POCs to GA
+
+---
+
+### **Vidable** – *AI Engineer / System Architect*
+> **Full ownership of self-hosted AI content intelligence platform for video.**
+
+- Designed and built an AI pipeline for transcription, summarization, translation, and content chunking
+- Delivered CE validation tools, flashcard and quiz generators, and video clipping
+- Engineered metadata extraction and engagement insights
+- Stack: Python, OpenAI API, NVIDIA hardware, self-hosted OSS models, AWS/Azure
+
+**Scope:** Technical architecture · ML pipelines · Feature design · Deployment
+
+---
+
+### **Sonic Foundry** – *Escalation Engineer / Infrastructure Specialist*
+> **Customer-critical infrastructure, global live events, and media delivery systems.**
+
+- Supported Mediasite video platform in 12+ countries under live broadcast SLAs
+- Resolved infrastructure and content delivery challenges at scale
+- Worked across CDNs, SQL backends, accessibility, LMS integration, and browser/device support
+- Deployed and optimized systems in U.S., EU, China, Middle East, Australia, and beyond
+
+**Scope:** Infrastructure ops · Live video systems · Root-cause diagnostics · Global client support
+
+
+---
+
+## 🔧 Technical Skills
+
+**Languages:**  
+Python, Bash, SQL, JavaScript (basic)
+
+**AI/ML Tools & Frameworks:**  
+OpenAI, HuggingFace, custom RAG pipelines, Whisper, self-hosted OSS models, LangChain (where applicable)
+
+**Cloud & Infrastructure:**  
+Azure (end-to-end), AWS, self-hosted Kubernetes, CDNs, load balancing, network infrastructure
+
+**Tools & Platforms:**  
+GitHub, Jira, REST APIs, CI/CD, SDKs, Azure DevOps
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, document-based stores, vector DBs
+
+---
+
+## 🌍 Domains of Expertise
+
+- Generative AI & content intelligence
+- Conversational agents and chatbots
+- Creative and fundraising strategy enablement
+- Large-scale media platforms (live/on-demand)
+- Infrastructure modernization and service delivery
+- Nonprofit, education, enterprise B2B, SaaS
+
+---
+
+## 📈 Leadership & Process Strengths
+
+- Full-lifecycle product management (ideation to GA)
+- Cross-functional communication with technical and non-technical stakeholders
+- Agile product development, user-centered design, and feedback-driven iteration
+- Global project delivery under tight operational constraints
+
+---
+
 ## 📣 Let’s Connect
 
 If you’re building AI tools, demo systems, or enablement experiences that need to not just work — but teach, sell, and scale — we should talk.
 
-- 📧 [your email]  
-- 🔗 [linkedin.com/in/bennjogami](https://linkedin.com/in/bennjogami)  
-- 🌐 GitHub: [github.com/bennjogami](https://github.com/bennjogami)
+- 📧 [b@6oh8.com]  
+- 🔗 [linkedin.com/in/bennjogami](https://linkedin.com/in/bennwitt)  
+- 🌐 GitHub: [github.com/bennjogami](https://github.com/bennwitt)
 
 ---
 
