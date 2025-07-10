@@ -1,112 +1,82 @@
-# Benn Witt – AI Engineer | Technologist | Product Builder
-
 ***“I currently build AI solutions that empower people, not replace them.”***
 
-> Proven cross-functional leader in AI product development, platform engineering, and operational infrastructure. I bring velocity, clarity, and delivery to every engagement — from ideation to production-scale deployment.
+# Benn – AI Technologist · Product Builder · Demo Architect in Spirit
+
+> Building things that explain themselves. Demos, tools, and systems that don’t just “work” — they speak, teach, and convert.
 
 ---
 
-## 👤 Summary
+## 👋 Hi, I’m Benn  
+An idealistic pragmatist with a passion for building demos, tools, and systems that scale people — not just software.
 
-I’m an experienced technologist with a unique blend of **deep infrastructure expertise**, **GenAI/ML engineering capability**, and **product services management expierence**. With a foundation in global-scale IT operations, I’ve led the evolution of complex systems into modern AI-driven solutions — serving enterprise, media, and nonprofit sectors.
+I’ve led productized AI systems from napkin sketch to general availability, built demo-like tools that explain the value of complex tech in seconds, and enabled teams with the documentation, content, and confidence to use them.
 
-Key strengths include:
-- Full-stack AI product ownership: ideation → prototype → pilot → general availability
-- Infrastructure and cloud engineering (Azure, AWS, hybrid, on-prem)
-- Video platforms, content intelligence, and creative optimization at scale
-- Effective cross-functional collaboration with executive, engineering, and creative teams
+I live at the intersection of:
 
----
-
-## 💼 Experience Highlights
-
-### **Moore** – *AI Product Builder*
-> **AI strategy and implementation for the finest nonprofit marketing data CoOp agency in the U.S.**
-
-- Partnered with executive leadership and creative teams to define and deliver AI-powered tools for fundraising creative strategy
-- Led user research, product definition, and rollout across multiple creative agencies
-- Delivered tools that analyze sentiment, creative impact, and campaign success across channels (Direct Mail, TV, Social, CTV, Email)
-- Applications:
-  - **CopyVariantAi** – AI-driven copy variant generator for fundraising
-  - **ContentSentimentAi** – Cross-channel creative sentiment catalog creation and search engine
-  - **CreativeStratAi** – Campaign strategy and insight platform (700+ data signals)
-  - **VideoLearningAi** – Intelligent video content insight, summarization and quiz system
-
-**Scope:** Product strategy · UX feedback loops · agency enablement · POCs to GA
+- 🤖 **AI Engineering** – from whisper-based content summarizers to custom RAG systems
+- 🧰 **Product Architecture** – full stack: backend, API, data, UX
+- 🎬 **Demo & Enablement** – I create tools and content that teach while they demo
+- ⚡ **Velocity** – MVPs in days, not quarters
 
 ---
 
-### **Vidable** – *AI Engineer / System Architect*
-> **Full ownership of self-hosted AI content intelligence platform for video.**
+## 🔍 What I Do Well (Especially for a Demo Architect Role)
 
-- Designed and built an AI pipeline for transcription, summarization, translation, and content chunking
-- Delivered CE validation tools, flashcard and quiz generators, and video clipping
-- Engineered metadata extraction and engagement insights
-- Stack: Python, OpenAI API, NVIDIA hardware, self-hosted OSS models, AWS/Azure
+- 🛠️ **Design & Build Demo Environments**  
+  I’ve created interactive tools like **CopyThat**, **SCENE**, and **MUSE**, acting as live demos of our strategic AI capabilities. They’re self-guided, personalized, and outcome-driven — everything a good demo should be.
 
-**Scope:** Technical architecture · ML pipelines · Feature design · Deployment
+- 🤖 **AI-Powered Productivity**  
+  Built systems that automate transcription, summarization, sentiment detection, and metadata extraction. I lean into LLMs and self-hosted OSS models to multiply human capability — and demo it in action.
 
----
+- 🧩 **Custom Tailored Use Cases**  
+  Tools like MUSE and vidCap were scoped, built, and pitched around real user stories — similar to building a proof-of-concept demo for a key customer segment.
 
-### **Sonic Foundry** – *Escalation Engineer / Infrastructure Specialist*
-> **Customer-critical infrastructure, global live events, and media delivery systems.**
+- 🗂️ **Create Demo Scripts & Guides**  
+  Every product I’ve built shipped with human-centered onboarding: demo scripts, walkthroughs, and internal enablement docs. I believe a tool isn’t “done” until it’s teachable.
 
-- Supported Mediasite video platform in 12+ countries under live broadcast SLAs
-- Resolved infrastructure and content delivery challenges at scale
-- Worked across CDNs, SQL backends, accessibility, LMS integration, and browser/device support
-- Deployed and optimized systems in U.S., EU, China, Middle East, Australia, and beyond
-
-**Scope:** Infrastructure ops · Live video systems · Root-cause diagnostics · Global client support
+- 🎥 **Record & Present Demos**  
+  I’ve created recorded explainers and internal walkthroughs for technical and non-technical teams. It’s not just about the build — it’s about the clarity.
 
 ---
 
-## 🔧 Technical Skills
+## 💡 Products I’ve Designed, Built, or Helped Scale
 
-**Languages:**  
-Python, Bash, SQL, JavaScript (basic)
-
-**AI/ML Tools & Frameworks:**  
-OpenAI, HuggingFace, custom RAG pipelines, Whisper, self-hosted OSS models, LangChain (where applicable)
-
-**Cloud & Infrastructure:**  
-Azure (end-to-end), AWS, self-hosted Kubernetes, CDNs, load balancing, network infrastructure
-
-**Tools & Platforms:**  
-GitHub, Jira, REST APIs, CI/CD, SDKs, Azure DevOps
-
-**Databases:**  
-ArangoDB, PostgreSQL, MySQL, MongoDB, document-based stores, vector DBs
+| Tool      | What it Does | Why it Matters |
+|-----------|--------------|----------------|
+| **CopyThat** | AI copy variant generator | 10x productivity tool for fundraisers and creatives |
+| **SCENE** | Cross-channel sentiment search | Internal insight tool that demos emotional tone across media |
+| **MUSE** | Campaign strategy analysis engine | ~700 data points visualized for performance and creative decision-making |
+| **vidCap** | AI-powered video content analyzer | Chapters, summaries, quizzes, clips — all generated and demo-ready |
 
 ---
 
-## 🌍 Domains of Expertise
+## 🧠 Tech Stack & Tools
 
-- Generative AI & content intelligence
-- Conversational agents and chatbots
-- Creative and fundraising strategy enablement
-- Large-scale media platforms (live/on-demand)
-- Infrastructure modernization and service delivery
-- Nonprofit, education, enterprise B2B
-
----
-
-## 📈 Leadership & Process Strengths
-
-- Full-lifecycle product management (ideation to GA)
-- Cross-functional communication with technical and non-technical stakeholders
-- Agile product development, user-centered design, and feedback-driven iteration
-- Global project delivery under tight operational constraints
+- **Languages:** Python, JavaScript, SQL, Bash  
+- **AI/ML:** OpenAI, Whisper, LangChain, custom embedding systems  
+- **Infra:** Azure (end-to-end), AWS, self-hosted pipelines on NVIDIA stack  
+- **APIs:** REST, LLM toolchains, auth + LMS integrations  
+- **Frontend:** HTML/CSS, simple JS for interactive demos  
+- **Enablement:** GitHub, Loom, Markdown, Jira, CI/CD docs
 
 ---
 
-## 🤝 Let’s Connect
+## 🧭 Career Highlights
 
-I’m actively exploring opportunities where I can lead or contribute to high-impact product and AI initiatives — especially in environments where **speed, clarity, and applied intelligence** are essential.
-
-- 📧 Email: [github@6oh8.com]
-- 🌐 Portfolio: [TBD]
-- 🔗 LinkedIn: [linkedin.com/in/bennwitt](https://www.linkedin.com/in/bennwitt/)
+- 🎥 **Sonic Foundry** – Managed global live-streaming infra, supported mission-critical media demos  
+- 📺 **Vidable** – Built AI systems for automatic transcription, chaptering, summarization, and content slicing — great for demo personalization  
+- 📊 **Moore** – Led product strategy and rapid POCs as “tip of the spear” for AI services in nonprofit fundraising. Built tools, taught teams, documented everything.
 
 ---
 
-> “I currently build AI solutions that empower people, not replace them.”
+## 📣 Let’s Connect
+
+If you’re building AI tools, demo systems, or enablement experiences that need to not just work — but teach, sell, and scale — we should talk.
+
+- 📧 [your email]  
+- 🔗 [linkedin.com/in/bennjogami](https://linkedin.com/in/bennjogami)  
+- 🌐 GitHub: [github.com/bennjogami](https://github.com/bennjogami)
+
+---
+
+> “Build the demo you want to see in the world.”
