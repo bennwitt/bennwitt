@@ -95,8 +95,8 @@ PostgreSQL, MySQL, MongoDB, document-based stores, vector DBs
 If you’re building AI tools, demo systems, or enablement experiences that need to not just work — but teach, sell, and scale — we should talk.
 
 - 📧 [bw@6oh8.com]  
-- 🔗 [linkedin.com/in/bennjogami](https://linkedin.com/in/bennwitt)  
-- 🌐 GitHub: [github.com/bennjogami](https://github.com/bennwitt)
+- 🔗 [linkedin.com/in/bennwitt](https://linkedin.com/in/bennwitt)  
+- 🌐 GitHub: [github.com/bennwitt](https://github.com/bennwitt)
 
 ---
 
