@@ -1,116 +1,55 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
 
-# Benn – AI Technologist · Product Builder · Technologist
+# Benn – AI Product Builder · Customer-Centric Technologist · Success-Driven Builder
 
-> Building things that explain themselves. Demos, tools, and systems that don’t just “work” — they speak, teach, and convert.
-
----
-
-## 👋 Hi, I’m Benn  
-An idealistic pragmatist with a passion for building demos, tools, and systems that scale people — not just software.
-
-I’ve led productized AI systems from napkin sketch to general availability, built demo-like tools that explain the value of complex tech in seconds, and enabled teams with the documentation, content, and confidence to use them.
-
-I live at the intersection of:
-
-- 🤖 **AI Engineering** – from whisper-based content summarizers to custom RAG systems
-- 🧰 **Product Architecture** – full stack: backend, API, data, UX
-- 🎬 **Demo & Enablement** – I create tools and content that teach while they demo
-- ⚡ **Velocity** – MVPs in days, not quarters
+> Turning AI from capability into value — with tools, clarity, and human-centered strategy.
 
 ---
 
-## 🔍 What I Do Well (Especially for a Demo Architect Role)
+## 👋 Hi, I’m Benn 
+A pragmatic idealist with a track record of making AI systems usable, impactful, and adopted across real-world teams.
 
-- 🛠️ **Design & Build Demo Environments**  
-  I’ve created interactive tools like **CopyThat**, **SCENE**, and **MUSE**, acting as live demos of our strategic AI capabilities. They’re self-guided, personalized, and outcome-driven — everything a good demo should be.
-
-- 🤖 **AI-Powered Productivity**  
-  Built systems that automate transcription, summarization, sentiment detection, and metadata extraction. I lean into LLMs and self-hosted OSS models to multiply human capability — and demo it in action.
-
-- 🧩 **Custom Tailored Use Cases**  
-  Tools like MUSE and vidCap were scoped, built, and pitched around real user stories — similar to building a proof-of-concept demo for a key customer segment.
-
-- 🗂️ **Create Demo Scripts & Guides**  
-  Every product I’ve built shipped with human-centered onboarding: demo scripts, walkthroughs, and internal enablement docs. I believe a tool isn’t “done” until it’s teachable.
-
-- 🎥 **Record & Present Demos**  
-  I’ve created recorded explainers and internal walkthroughs for technical and non-technical teams. It’s not just about the build — it’s about the clarity.
+I specialize in helping organizations unlock the value of AI by building tailored tools, aligning product with business needs, and ensuring the humans in the loop are supported every step of the way — from enablement content to post-launch success plans.
 
 ---
 
-## 💡 Products I’ve Designed, Built, or Helped Scale
+## 🧠 What I Bring to Ai Support Roles
 
-| Tool      | What it Does | Why it Matters |
-|-----------|--------------|----------------|
-| **CopyThat** | AI copy variant generator | 10x productivity tool for fundraisers and creatives |
-| **SCENE** | Cross-channel sentiment search | Internal insight tool that demos emotional tone across media |
-| **MUSE** | Creative campaign strategy analysis engine | ~700 data points visualized for performance and creative decision-making |
-| **vidCap** | AI-powered video content analyzer | Chapters, summaries, quizzes, clips — all generated and demo-ready |
+- ✅ **Proven AI Product Experience**  
+  I’ve shipped AI-driven products that transcribe, summarize, generate, classify, recommend, and advise — all with metrics tied to business outcomes.
 
----
+- ✅ **Customer-Facing Depth**  
+  From mission-critical live-streaming at Sonic Foundry to working directly with stakeholders at Moore, I’ve built trust and delivered value under pressure.
 
-## 🧠 Tech Stack & Tools
+- ✅ **Cross-Functional Communication**  
+  I operate fluidly across executive, product, and engineering levels. I speak “AI” and translate it into value for stakeholders at any altitude.
 
-- **Languages:** Python, JavaScript, SQL, Bash  
-- **AI/ML:** OpenAI, Whisper, LangChain, custom embedding systems  
-- **Infra:** Azure (end-to-end), AWS, self-hosted pipelines on NVIDIA stack  
-- **APIs:** REST, LLM toolchains, auth + LMS integrations  
-- **Frontend:** HTML/CSS, simple JS for interactive demos  
-- **Enablement:** GitHub, Loom, Markdown, Jira, CI/CD docs
+- ✅ **Adoption + Success Mindset**  
+  Tools I build don’t just work — they get adopted. Because I document, educate, support, and stay present through every phase: POC → Pilot → GA → Scale.
+
+- ✅ **Enablement + Evangelism**  
+  I create guides, demo videos, and teachback assets to make sure what’s built is understood and used — not just shipped.
 
 ---
 
-## 🧭 Career Highlights
+## 🧩 Examples of My Work Driving AI Value
 
-- 🎥 **Sonic Foundry** – Managed global live-streaming infra, supported mission-critical media demos  
-- 📺 **Vidable** – Built AI systems for automatic transcription, chaptering, summarization, and content slicing — great for demo personalization  
-- 📊 **Moore** – Led product strategy and rapid POCs as “tip of the spear” for AI services in nonprofit fundraising. Built tools, taught teams, documented everything.
-
----
-
-## 💼 Experience Highlights
-
-### **Moore** – *AI Product Lead / Product Manager*
-> **AI strategy and implementation for the largest nonprofit marketing agency in the U.S.**
-
-- Partnered with executive leadership to define and deliver AI-powered tools for fundraising strategy and human efficiencies
-- Led user research, product definition, and rollout across multiple creative agencies
-- Delivered tools that analyze sentiment, creative impact, and campaign success across channels (Direct Mail, TV, Social, CTV, Email)
-- Applications:
-  - **CopyThat** – AI-driven copy variant generator for fundraising
-  - **SCENE** – Cross-channel creative sentiment search engine
-  - **MUSE** – Creative Campaign strategy and insight platform (700+ data signals)
-  - **vidCap** – Intelligent video content summarization and quiz system
-
-**Scope:** Product strategy · UX feedback loops · Executive enablement · POCs to GA
+| Product      | Outcome Driven Value |
+|--------------|----------------------|
+| **MUSE** | Strategy tool to uncover why creative campaigns work — used to guide real decisions. |
+| **CopyThat** | Boosted copywriter output 10x for nonprofit campaign variants. |
+| **SCENE** | Made sentiment searchable across all media channels — AI made practical for teams. |
+| **vidCap** | Created transcripts, quizzes, summaries, and study guides from video — used in continuing education. |
 
 ---
 
-### **Vidable** – *AI Engineer / System Architect*
-> **Full ownership of self-hosted AI content intelligence platform for video.**
+## 🛠 Tech & Tools
 
-- Designed and built an AI pipeline for transcription, summarization, translation, and content chunking
-- Delivered CE validation tools, flashcard and quiz generators, and video clipping
-- Engineered metadata extraction and engagement insights
-- Stack: Python, OpenAI API, NVIDIA hardware, self-hosted OSS models, AWS/Azure
-
-**Scope:** Technical architecture · ML pipelines · Feature design · Deployment
-
----
-
-### **Sonic Foundry** – *Escalation Engineer / Infrastructure Specialist*
-> **Customer-critical infrastructure, global live events, and media delivery systems.**
-
-- Supported Mediasite video platform in 12+ countries under live broadcast SLAs
-- Resolved infrastructure and content delivery challenges at scale
-- Worked across CDNs, SQL backends, accessibility, LMS integration, and browser/device support
-- Deployed and optimized systems in U.S., EU, China, Middle East, Australia, and beyond
-
-**Scope:** Infrastructure ops · Live video systems · Root-cause diagnostics · Global client support
-
-
----
+**Languages / Stack:** Python · SQL · Bash · REST APIs  
+**AI/ML:** OpenAI · Whisper · LangChain · HuggingFace · Vector DBs · OSS LLMs  
+**Infra:** Azure · AWS · Self-hosted pipelines · NVIDIA stack  
+**Customer Tools:** Gainsight (familiar) · Jira · GitHub · Loom  
+**Documentation & Enablement:** Markdown · Confluence · Loom · Custom walkthroughs
 
 ## 🔧 Technical Skills
 
@@ -155,7 +94,7 @@ PostgreSQL, MySQL, MongoDB, document-based stores, vector DBs
 
 If you’re building AI tools, demo systems, or enablement experiences that need to not just work — but teach, sell, and scale — we should talk.
 
-- 📧 [b@6oh8.com]  
+- 📧 [bw@6oh8.com]  
 - 🔗 [linkedin.com/in/bennjogami](https://linkedin.com/in/bennwitt)  
 - 🌐 GitHub: [github.com/bennjogami](https://github.com/bennwitt)
 
