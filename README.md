@@ -5,10 +5,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Human%20Centered-blue?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tech-Philosopher-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Biotech-Curious-green?style=for-the-badge&logo=dna&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regulation%20Ready-21%20CFR%20Part%2011-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-Human%20First-blue?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Dev-Pragmatic%20Idealist-9cf?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Musician-Fretboard%20Wizard-purple?style=for-the-badge&logo=music&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mountain%20Biker-Trail%20Seeker-green?style=for-the-badge&logo=mountain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ironman-Tri%20Endurance%20Machine-red?style=for-the-badge&logo=medal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Skateboarder-Creative%20Momentum-black?style=for-the-badge&logo=skateboarding&logoColor=white"/>
 </p>
 
 ---
