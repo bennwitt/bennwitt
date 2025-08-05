@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Human%20Centered-blue?style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tech-Philosopher-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Biotech-Aware-green?style=for-the-badge&logo=dna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Biotech-Curious-green?style=for-the-badge&logo=dna&logoColor=white"/>
   <img src="https://img.shields.io/badge/Regulation%20Ready-21%20CFR%20Part%2011-red?style=for-the-badge"/>
 </p>
 
