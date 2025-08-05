@@ -1,103 +1,100 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
 
-# Benn – AI Product Builder · Customer-Centric Technologist · Success-Driven Builder
-
-> Turning AI from capability into value — with tools, clarity, and human-centered strategy.
-
----
-
-## 👋 Hi, I’m Benn 
-A pragmatic idealist with a track record of making AI systems usable, impactful, and adopted across real-world teams.
-
-I specialize in helping organizations unlock the value of AI by building tailored tools, aligning product with business needs, and ensuring the humans in the loop are supported every step of the way — from enablement content to post-launch success plans.
+<h1 align="center">🧠 Benn</h1>
+<h3 align="center">Human-in-the-loop AI Engineer • Builder of Empowerment • Destroyer of Fear</h3>
 
 ---
 
-## 🧠 What I Bring to Ai Support Roles
-
-- ✅ **Proven AI Product Experience**  
-  I’ve shipped AI-driven products that transcribe, summarize, generate, classify, recommend, and advise — all with metrics tied to business outcomes.
-
-- ✅ **Customer-Facing Depth**  
-  From mission-critical live-streaming at Sonic Foundry to working directly with stakeholders at Moore, I’ve built trust and delivered value under pressure.
-
-- ✅ **Cross-Functional Communication**  
-  I operate fluidly across executive, product, and engineering levels. I speak “AI” and translate it into value for stakeholders at any altitude.
-
-- ✅ **Adoption + Success Mindset**  
-  Tools I build don’t just work — they get adopted. Because I document, educate, support, and stay present through every phase: POC → Pilot → GA → Scale.
-
-- ✅ **Enablement + Evangelism**  
-  I create guides, demo videos, and teachback assets to make sure what’s built is understood and used — not just shipped.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Human%20Centered-blue?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech-Philosopher-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Biotech-Aware-green?style=for-the-badge&logo=dna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regulation%20Ready-21%20CFR%20Part%2011-red?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧩 Examples of My Work Driving AI Value
+## 🚀 Who I Am
 
-| Product      | Outcome Driven Value |
-|--------------|----------------------|
-| **MUSE** | Strategy tool to uncover why creative campaigns work — used to guide real decisions. |
-| **CopyThat** | Boosted copywriter output 10x for nonprofit campaign variants. |
-| **SCENE** | Made sentiment searchable across all media channels — AI made practical for teams. |
-| **vidCap** | Created transcripts, quizzes, summaries, and study guides from video — used in continuing education. |
+I'm **Bennjogami**, an AI Engineer, artist, and philosophical hacker with a foot in the future and a heart in the now.
 
----
+My mission?  
+🛠️ **Build tools that amplify humans, not replace them.**  
+⚙️ Design AI systems that do the grunt work so people can do the smart work.  
+🎯 Tame complexity, protect context, and bring clarity to chaos.
 
-## 🛠 Tech & Tools
-
-**Languages / Stack:** Python · SQL · Bash · REST APIs  
-**AI/ML:** OpenAI · Whisper · LangChain · HuggingFace · Vector DBs · OSS LLMs  
-**Infra:** Azure · AWS · Self-hosted pipelines · NVIDIA stack  
-**Customer Tools:** Gainsight (familiar) · Jira · GitHub · Loom  
-**Documentation & Enablement:** Markdown · Confluence · Loom · Custom walkthroughs
-
-## 🔧 Technical Skills
-
-**Languages:**  
-Python, Bash, SQL, JavaScript (basic)
-
-**AI/ML Tools & Frameworks:**  
-OpenAI, HuggingFace, custom RAG pipelines, Whisper, self-hosted OSS models, LangChain (where applicable)
-
-**Cloud & Infrastructure:**  
-Azure (end-to-end), AWS, self-hosted Kubernetes, CDNs, load balancing, network infrastructure
-
-**Tools & Platforms:**  
-GitHub, Jira, REST APIs, CI/CD, SDKs, Azure DevOps
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, document-based stores, vector DBs
+> 🧘 *“I don’t replace the operator — I give them the Iron Man suit.”*
 
 ---
 
-## 🌍 Domains of Expertise
+## 🧠 Metaphors I Build By
 
-- Generative AI & content intelligence
-- Conversational agents and chatbots
-- Creative and fundraising strategy enablement
-- Large-scale media platforms (live/on-demand)
-- Infrastructure modernization and service delivery
-- Nonprofit, education, enterprise B2B, SaaS
-
----
-
-## 📈 Leadership & Process Strengths
-
-- Full-lifecycle product management (ideation to GA)
-- Cross-functional communication with technical and non-technical stakeholders
-- Agile product development, user-centered design, and feedback-driven iteration
-- Global project delivery under tight operational constraints
+| 🛠️ **Power Tools**      | Make skilled people faster & more precise, not obsolete |
+| 🧭 **GPS for Data**     | Suggests the best path, but *you* steer the ship        |
+| 🛩️ **Autopilot Systems** | Handles routine — but humans still make the calls       |
+| 🤖 **AI Intern**         | Learns from you, supports you — never replaces you       |
+| 🧲 **Signal Radar**      | Surfaces patterns — you decide what they mean           |
 
 ---
 
-## 📣 Let’s Connect
+## 🧰 My Stack
 
-If you’re building AI tools, demo systems, or enablement experiences that need to not just work — but teach, sell, and scale — we should talk.
-
-- 📧 [bw@6oh8.com]  
-- 🔗 [linkedin.com/in/bennwitt](https://linkedin.com/in/bennwitt)  
-- 🌐 GitHub: [github.com/bennwitt](https://github.com/bennwitt)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![ArangoDB](https://img.shields.io/badge/-ArangoDB-333333?style=flat&logo=arangodb)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
+![W&B](https://img.shields.io/badge/-Weights%20&%20Biases-333333?style=flat&logo=weightsandbiases)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia)
+![ffmpeg](https://img.shields.io/badge/-FFmpeg-333333?style=flat&logo=ffmpeg)
 
 ---
 
-> “Build the demo you want to see in the world.”
+## 🛠️ Projects That Preach What I Practice
+
+| 🚧 | **Project** | **What It Does** |
+|----|-------------|------------------|
+| 🔊 [Whisper-Driven Video Processor](#) | Converts video to transcript + quiz + captions |
+| 🧠 [RAG + ArangoDB Stack](#) | Embedding-aware semantic search with OpenAI + Arango |
+| 🧬 [Manufacturing Ops AI Tools](#) | OCR → AI classification → audit logs → insights |
+| 🎨 [Multimodal Campaign Analyzer](#) | Image + copy + layout → donor behavior predictor |
+| 🤖 [Agentic AI Personas](#) | Dynamic prompt tuning with hyperparameter personality knobs |
+
+> Want more? Dive into the repos. I document everything like it’s meant to be understood.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bennjogami&show_icons=true&theme=gruvbox&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennjogami&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 🤝 Let’s Work Together If You...
+
+- Respect humans and want AI that serves, not supplants
+- Operate in biotech, logistics, creative ops, or complex systems
+- Want scalable, documented, regulatory-compliant AI infra
+- Think deeply, build fast, and communicate clearly
+
+---
+
+## 🧘 Final Word
+
+AI isn’t magic.  
+It’s **math and context** — and context is *always* human.
+
+> “We’re not here to replace people. We’re here to remove chaos, reveal signal, and bring our best to the surface.”
+
+If that’s your vibe too — let’s build.
+
+---
+
+<p align="center">
+  <strong>👋 Reach out • 🤖 Collaborate • 🧠 Build with intention</strong>
+</p>
