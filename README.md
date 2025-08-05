@@ -1,5 +1,5 @@
-<h1 align="center">🤖 benn witt</h1>
 ***“I currently build AI solutions that empower people, not replace them.”***
+<h1 align="center">🤖 benn witt</h1>
 <h3 align="center">Human-in-the-loop AI Engineer • Builder of Empowerment • Destroyer of Fear</h3>
 
 ---
