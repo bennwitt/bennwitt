@@ -29,9 +29,13 @@ My mission?
 ## 🧠 Metaphors I Build By
 
 | 🛠️ **Power Tools**      | Make skilled people faster & more precise, not obsolete |
+
 | 🧭 **GPS for Data**     | Suggests the best path, but *you* steer the ship        |
+
 | 🛩️ **Autopilot Systems** | Handles routine — but humans still make the calls       |
+
 | 🤖 **AI Intern**         | Learns from you, supports you — never replaces you       |
+
 | 🧲 **Signal Radar**      | Surfaces patterns — you decide what they mean           |
 
 ---
