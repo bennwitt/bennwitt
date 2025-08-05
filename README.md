@@ -62,11 +62,14 @@ My mission?
 
 | 🚧 | **Project** | **What It Does** |
 |----|-------------|------------------|
-| 🔊 [Whisper-Driven Video Processor](#) | Converts video to transcript + quiz + captions |
+| 🔊 [AI-Insight-Driven Video Processor](#) | Converts video to transcript + quiz + captions + insights + chapters |
 | 🧠 [RAG + ArangoDB Stack](#) | Embedding-aware semantic search with OpenAI + Arango |
 | 🧬 [Manufacturing Ops AI Tools](#) | OCR → AI classification → audit logs → insights |
 | 🎨 [Multimodal Campaign Analyzer](#) | Image + copy + layout → donor behavior predictor |
 | 🤖 [Agentic AI Personas](#) | Dynamic prompt tuning with hyperparameter personality knobs |
+| ✍️ [Copy That](#) | AI tool for generating, analyzing, and iterating persuasive copy |
+| 🧪 [MUSE](#) | Evaluates creative assets based on composition, tone, and performance impact |
+| 🎥 [SCENE](#) | Multimodal video intelligence system for segmenting, summarizing, and surfacing story arcs |
 
 > Want more? Dive into the repos. I document everything like it’s meant to be understood.
 
