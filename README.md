@@ -15,7 +15,7 @@
 
 ## 🚀 Who I Am
 
-I'm **Bennjogami**, an AI Engineer, artist, and philosophical hacker with a foot in the future and a heart in the now.
+I'm **Benn**, an AI Engineer, artist, and philosophical hacker with a foot in the future and a heart in the now.
 
 My mission?  
 🛠️ **Build tools that amplify humans, not replace them.**  
