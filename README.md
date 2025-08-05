@@ -47,11 +47,14 @@ My mission?
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![ArangoDB](https://img.shields.io/badge/-ArangoDB-333333?style=flat&logo=arangodb)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![W&B](https://img.shields.io/badge/-Weights%20&%20Biases-333333?style=flat&logo=weightsandbiases)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia)
-![ffmpeg](https://img.shields.io/badge/-FFmpeg-333333?style=flat&logo=ffmpeg)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-333333?style=flat&logo=ffmpeg)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-333333?style=flat&logo=nvidia)
+![Custom RAG](https://img.shields.io/badge/-Custom%20RAG-333333?style=flat&logo=brain)
 
 ---
 
