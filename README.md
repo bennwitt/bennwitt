@@ -74,8 +74,14 @@ My mission?
 > Want more? Dive into the repos. I document everything like it’s meant to be understood.
 
 ---
-![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
+## 📊 My GitHub Stats
 
+<p align="center">
+  <img
+    alt="GitHub Stats"
+    src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%23111a2b&textColor=%23e0f7fa&cardColor=%23212f45&chartColor=%2300bcd4&chartTextColor=%23b2ebf2"
+  />
+</p>
 ---
 
 ## 🤝 Let’s Work Together If You...
