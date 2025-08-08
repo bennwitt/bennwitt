@@ -79,7 +79,7 @@ My mission?
 <p align="center">
   <img
     alt="GitHub Stats"
-    src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%23111a2b&textColor=%23e0f7fa&cardColor=%23212f45&chartColor=%2300bcd4&chartTextColor=%23b2ebf2"
+    src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%23ffffff&textColor=%23000000&cardColor=%23f5f5f5&chartColor=%23ff00ff&chartTextColor=%2300ffff"
   />
 </p>
 ---
