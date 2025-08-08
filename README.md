@@ -75,25 +75,35 @@ My mission?
 
 
 ---
+
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bennwitt
-&show_icons=true
-&bg_color=ffffff
-&title_color=FF00FF
-&text_color=000000
-&icon_color=00FFFF
-&hide_border=false" />
 
-  <br/>
+  <!-- Core stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bennwitt&show_icons=true&bg_color=ffffff&title_color=FF00FF&text_color=000000&icon_color=00FFFF&hide_border=false"
+    alt="GitHub stats"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennwitt
-&layout=compact
-&bg_color=ffffff
-&title_color=FF00FF
-&text_color=000000
-&hide_border=false" />
+  <br/><br/>
+
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennwitt&layout=compact&bg_color=ffffff&title_color=FF00FF&text_color=000000&hide_border=false"
+    alt="Top languages"
+  />
+
+  <br/><br/>
+
+  <!-- Streak stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=bennwitt&theme=transparent&background=FFFFFF&hide_border=false&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF&sideNums=000000&sideLabels=000000&dates=7A7A7A"
+    alt="GitHub streak"
+  />
+
 </p>
+
 ---
 
 ## 🤝 Let’s Work Together If You...
