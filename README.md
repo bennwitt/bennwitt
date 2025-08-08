@@ -75,7 +75,6 @@ My mission?
 
 ---
 
-![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
 
 ---
 
