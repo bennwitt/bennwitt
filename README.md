@@ -75,24 +75,7 @@ My mission?
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <!-- Core stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bennwitt&show_icons=true&theme=gruvbox&count_private=true" />
-  <br/>
-
-  <!-- Top languages (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennwitt&layout=compact&theme=gruvbox" />
-  <br/>
-
-  <!-- 🔥 Streak stats (nice visual boost) -->
-  <img src="https://streak-stats.demolab.com?user=bennwitt&theme=gruvbox&hide_border=false" />
-  <br/>
-
-  <!-- 🏆 Profile trophies (adds breadth at a glance) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bennwitt&theme=gruvbox&no-bg=true&no-frame=true&column=6" />
-</p>
+![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
 
 ---
 
