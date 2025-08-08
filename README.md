@@ -74,6 +74,7 @@ My mission?
 > Want more? Dive into the repos. I document everything like it’s meant to be understood.
 
 
+---
 ## 📊 My GitHub Stats
 
 <p align="center" style="background: linear-gradient(90deg, #ff00ff, #00ffff, #ffea00); padding: 10px; border-radius: 8px;">
@@ -82,7 +83,7 @@ My mission?
     src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=transparent&textColor=%23000000&cardColor=transparent&chartColor=%23ff00ff&chartTextColor=%2300ffff"
   />
 </p>
-
+---
 
 ## 🤝 Let’s Work Together If You...
 
