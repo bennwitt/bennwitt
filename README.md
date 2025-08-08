@@ -77,10 +77,11 @@ My mission?
 ---
 ## 📊 My GitHub Stats
 
-<p align="center" style="background: linear-gradient(90deg, #ff00ff, #00ffff, #ffea00); padding: 10px; border-radius: 8px;">
+<p align="center" style="background: linear-gradient(90deg,#ff00ff,#00ffff,#ffea00); padding:14px; border-radius:12px;">
   <img
     alt="GitHub Stats"
-    src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=transparent&textColor=%23000000&cardColor=transparent&chartColor=%23ff00ff&chartTextColor=%2300ffff"
+    src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=00000000&cardColor=00000000&textColor=000000&chartColor=ff00ff&chartTextColor=00ffff"
+    style="display:block; max-width:100%; border-radius:10px; background:transparent;"
   />
 </p>
 ---
