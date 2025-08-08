@@ -75,13 +75,7 @@ My mission?
 
 ---
 
-## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bennwitt&show_icons=true&theme=gruvbox&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennwitt&layout=compact&theme=gruvbox" />
-</p>
 
 ---
 
