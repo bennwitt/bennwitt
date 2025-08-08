@@ -76,8 +76,23 @@ My mission?
 
 ---
 ## 📊 My GitHub Stats
-<p align="center" style="background: linear-gradient(90deg,#00e5ff,#7c4dff,#ff00ff); padding:14px; border-radius:12px;">
-  <img alt="GitHub Stats" src="https://openlabx.com/githubflarestats/api/gitfs.php/bennwitt?response=image&bgColor=00000000&cardColor=00000000&textColor=000000&chartColor=00e5ff&chartTextColor=7c4dff" style="display:block; max-width:100%; border-radius:10px; background:transparent;"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bennwitt
+&show_icons=true
+&bg_color=ffffff
+&title_color=FF00FF
+&text_color=000000
+&icon_color=00FFFF
+&hide_border=false" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennwitt
+&layout=compact
+&bg_color=ffffff
+&title_color=FF00FF
+&text_color=000000
+&hide_border=false" />
 </p>
 ---
 
