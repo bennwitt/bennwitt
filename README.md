@@ -6,14 +6,12 @@
 ---
 
 ## 🎤 The Pitch
-I’m Benn — a **pragmatic idealist** and **solutions engineer** with roots in **IT service delivery and operations**.  
-I cut my teeth keeping enterprise platforms running — as an **escalation engineer** for hardware, software, SaaS, and PaaS — where uptime, customer trust, and clear communication mattered more than buzzwords.  
+I am Benn — a **solutions engineer and pragmatic idealist** with a career spanning **IT service delivery, enterprise operations, and AI engineering.**  
+My foundation was built in escalation engineering for hardware, software, SaaS, and PaaS, where I developed a discipline for designing resilient, accountable systems that kept global services running.  
 
-Now I bring that same discipline into **AI engineering**.  
-Over the past five years, I’ve focused on using AI *where it truly fits*: to cut through complexity, surface clarity, and extend human capability.  
+In the past five years, I have extended this foundation with **AI-driven solutions** — using machine learning and automation to reduce inefficiency, improve clarity, and scale services and delivery.  
 
-Think of me as the **translator between AI potential and operational reality** — turning frontline pain points into production-ready systems that people can actually use and trust.  
-
+I specialize in translating between **AI capability and operational need**, delivering solutions that align with real-world constraints while creating measurable business value.  
 > 🧘 “I don’t replace the operator — I give them the Iron Man suit. 鉄人”
 
 ---
