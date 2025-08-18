@@ -1,5 +1,6 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
-<h1 align="center">🤖 Benn Witt |{A,a}✖️{I,i}|</h1>
+<h1 align="center">🤖 Benn Witt</h1>
+<h2 align="center">ben₂ wit₂ |{A,a}✖️{I,i}| </h2>
 **Human-Centered AI Engineer • Builder of Tools that Empower • Enterprise Ops Veteran • Advocate for Augmentation, Not Replacement**
 
 ---
@@ -11,7 +12,7 @@ Think of me as the **translator between AI capabilities and real-world operation
 
 But before I was building custom RAG stacks and multimodal analyzers, I spent years in **IT operations and service delivery**, running enterprise platforms where uptime, stability, and scalability weren’t optional — they were the mission. That background means I design AI with the same mindset: **resilient, accountable, and ready for production.**
 
-> 🧘 “I don’t replace the operator — I give them the Iron Man suit.”
+> 🧘 “I don’t replace the operator — I give them the Iron Man suit. 鉄人”
 
 ---
 
