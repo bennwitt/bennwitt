@@ -1,7 +1,7 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
-<h1 align="center">🤖 Benn Witt</h1>
+<h1 align="center">🤖 Benn Witt |{A,a}✖️{I,i}|</h1>
 **Human-Centered AI Engineer • Builder of Tools that Empower • Enterprise Ops Veteran • Advocate for Augmentation, Not Replacement**
-**|{A,a}✖️{I,i}|**
+
 ---
 
 ## 🎤 The Pitch
