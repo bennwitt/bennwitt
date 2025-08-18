@@ -79,7 +79,7 @@ make complex systems **usable, reliable, and valuable**.
    - Created **new billable service offerings** by productizing operational insights.  
 
 - 📊 **HOLA (Holistic Log Analyzer)**  
-   - Centralized logs, telemetry, and metrics in ELK.  
+   - Centralized logs, telemetry, and metrics in Elastic Search Kiban Grafana.  
    - Surfaced **drift, anomalies, and hidden failure patterns**.  
    - Gave ops teams **visibility across distributed systems** in real time.  
 
@@ -137,7 +137,7 @@ make complex systems **usable, reliable, and valuable**.
    - **Production-Ready** → Architected to survive scale, load, and visibility in live environments.  
 
 - 📈 **Adoption**  
-   - **Excel to Modern Tools** → Coaching teams to shift into Databricks, Power BI, Jupyter, or custom dashboards.  
+   - **Pivot to Modern Tools** → Coaching teams to shift into new and efficient workflows.  
    - **Operator-First Design** → Interfaces that match the way people already work.  
    - **Trust in Transition** → Building systems that earn confidence so they stick.  
 
