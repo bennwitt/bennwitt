@@ -17,11 +17,11 @@ I specialize in translating between **AI capability and operational need**, deli
 ---
 
 ## 🩹 The Problem
-Across industries — manufacturing, logistics, IT operations, service delivery, creative production, and live events — organizations face a consistent set of challenges:  
+Across industries — marketing and advertising, manufacturing, logistics, IT operations, service delivery, creative production, and events managment — organizations face a consistent set of challenges:  
 
 - **Volume and complexity of data**: telemetry, logs, and documents that are difficult to parse into insight.  
 - **Operational inefficiency**: manual workflows, redundant processes, and siloed systems that limit throughput.  
-- **High-stakes visibility**: regulated production lines, client-facing platforms, and live broadcasts where transparency and precision are non-negotiable.  
+- **High-stakes visibility**: regulated production lines, client-facing platforms, and live event broadcasts where transparency and precision are non-negotiable.  
 - **Skills gap in emerging technologies**: teams benefit from upskilling in AI, machine learning, and pattern recognition, but practical adoption remains slow.  
 
 The problem is not a lack of tools or dashboards. It is the **translation gap** between overwhelming data streams and the clarity required for resilient, transparent, and trusted decision-making.  
