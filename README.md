@@ -178,6 +178,20 @@ This stack is not static.
 
 ---
 
+## 🎯 The Ask  
+
+If you’re looking for someone who can:  
+- 🔍 Discover **high-impact AI use cases** by shadowing workflows and surfacing real pain points  
+- 🧪 Design, test, and **operationalize solutions** that hold up in production
+- 👥 Collaborate with teams on adoption, usage, and long-term ownership so solutions actually stick  
+- 📈 Deliver **measurable outcomes** — not just prototypes or slideware  
+
+👉 Then I’m your investment.  
+
+I focus on what works: solutions that survive in production, earn trust from the people who use them, and create measurable impact where it matters most. 
+
+---
+
 ## 🧘 Final Word
 AI isn’t magic.  
 It’s **math + context — and context is always human.**
