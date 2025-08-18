@@ -26,37 +26,6 @@ Teams need more than dashboards — they need **AI that integrates into their sy
 
 ---
 
-## 💡 The Solution
-I build **human-centered AI systems** that combine my ops background with modern AI:  
-
-- **OCR + Document AI** → Converting messy scanned data into structured, compliant, 21 CFR Part 11–ready datasets.  
-- **Predictive Modeling** → Detecting process drift in LC/MS, chromatography, and instrument logs before failures happen.  
-- **Operational RAG** → Embedding-aware semantic search to tame sprawling knowledge bases.  
-- **Multimodal Analyzers** → Linking image + text + layout to real outcomes (creative, scientific, operational).  
-- **AI in Enterprise Contexts** → Designing pipelines that run alongside **SAP, ELN/LIMS, IIoT, Azure, and enterprise stacks** without breaking ops.  
-
----
-
-## 📈 Traction & Proof
-My work spans both **enterprise IT ops** and **AI innovation**:
-
-| 🚧 Project | 🛠️ What It Does |  
-|------------|-----------------|  
-| 🔧 **Enterprise Ops Systems** | Diagnostic & monitoring platforms → reduced resolution times, created proactive service delivery, new billable services |  
-| 🧬 **Manufacturing Ops AI Tools** | OCR → AI classification → audit logs → insights for regulated environments |  
-| 🧠 **RAG + ArangoDB Stack** | Vector search + embeddings for enterprise-scale semantic knowledge retrieval |  
-| 🎥 **SCENE** | Whisper + multimodal video intelligence → segmentation, summaries, story arcs |  
-| 🎨 **Multimodal Campaign Analyzer** | Combines layout, copy, and imagery to predict donor behavior |  
-
-Every system shares one core DNA: **built for operators, designed to last, and aligned with real-world constraints.**
-
----
-
-## 📊 Impact
-- **Throughput** → Automated pipelines that shave hours/days off manual processes.  
-- **Compliance** → Structured data ready for audits and regulated workflows.  
-- **Resilience** → Systems designed with ops discipline: monitoring, scaling, and accountability.  
-- **Adoption** → Coaching teams to move from spreadsheets → modern AI/analytics tools without losing trust.  
 
 ---
 
