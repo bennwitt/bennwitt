@@ -35,7 +35,7 @@ My focus is not on hype, but on **practical tools** that integrate seamlessly in
 
 - 📄 **Document & Language Intelligence**  
    - **OCR & Parsing** → Transform scanned docs, creative copy, and campaign assets into structured datasets.  
-   - **Compliance-Ready** → Designed for traceability and auditability (21 CFR Part 11 mindset).  
+   - **Compliance-Ready** → Designed for traceability and auditability.  
    - **MUSE + CopyThat** → Analyze tone, style, and effectiveness, generating insights and iterations for operators and creatives.  
    - **Context Preservation** → Maintains structure and metadata for accurate retrieval and reuse.  
 
@@ -49,7 +49,7 @@ My focus is not on hype, but on **practical tools** that integrate seamlessly in
    - **Semantic Search** → Embedding-aware retrieval across sprawling, enterprise-scale knowledge bases.  
    - **Context Injection** → Enhances workflows and decision-making with just-in-time relevant knowledge.  
    - **ArangoDB Stack** → Vector search + graph connections to capture relationships between concepts, not just keywords.  
-   - **Scales with Ops** → Built to run alongside enterprise platforms (SAP, ELN/LIMS, Azure).  
+   - **Scales with Ops** → Built to run alongside enterprise platforms (Digital Asset Mgmt Systems, Azure).  
 
 - 🎨 **Multimodal Analyzers**  
    - **Image + Text + Layout** → Correlates design features with performance and audience behavior.  
