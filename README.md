@@ -1,85 +1,73 @@
 ***“I currently build AI solutions that empower people, not replace them.”***
 <h1 align="center">🤖 Benn Witt</h1>
-**Human-Centered AI Engineer • Builder of Tools that Empower • Advocate for Augmentation, Not Replacement**
-
+**Human-Centered AI Engineer • Builder of Tools that Empower • Enterprise Ops Veteran • Advocate for Augmentation, Not Replacement**
+**|{A,a}✖️{I,i}|**
 ---
 
 ## 🎤 The Pitch
-I’m Benn, an AI Engineer and pragmatic builder who designs **AI systems that amplify people rather than replace them.**  
-Think of me as the **translator between AI capabilities and real-world operations** — turning complexity into clarity, chaos into context, and experiments into production-grade systems.
+I’m Benn, an **AI Engineer and pragmatic builder** who designs **AI systems that amplify people rather than replace them.**  
+
+Think of me as the **translator between AI capabilities and real-world operations** — turning complexity into clarity, chaos into context, and experiments into production-grade systems.  
+
+But before I was building custom RAG stacks and multimodal analyzers, I spent years in **IT operations and service delivery**, running enterprise platforms where uptime, stability, and scalability weren’t optional — they were the mission. That background means I design AI with the same mindset: **resilient, accountable, and ready for production.**
 
 > 🧘 “I don’t replace the operator — I give them the Iron Man suit.”
 
 ---
 
 ## 🩹 The Problem
-Modern operations — whether in manufacturing, logistics, or creative work — are drowning in:  
-- **Unstructured data** (scanned records, instrument logs, compliance docs)  
-- **Manual workflows** that slow throughput  
-- **Context overload** where critical signals get buried in noise  
-- **Regulatory & quality burdens** that demand precision, traceability, and auditability  
+Modern operations — whether in manufacturing, logistics, or creative workflows — face:  
+- **Data overload**: scanned records, instrument logs, and compliance docs that resist easy analysis.  
+- **Inefficiency**: manual workflows that slow throughput and introduce risk.  
+- **High stakes**: regulated environments where errors mean cost, delay, or compliance risk.  
 
-Teams need AI that doesn’t just “do magic,” but **slots seamlessly into existing processes, improves efficiency, and stays compliant.**
+Teams need more than dashboards — they need **AI that integrates into their systems, augments their decisions, and scales with their reality.**
 
 ---
 
 ## 💡 The Solution
-I build **AI solutions that empower humans** by:  
-- **OCR + Document AI** → Transforming scanned records into structured, compliant datasets (21 CFR Part 11 ready).  
-- **Predictive Modeling** → Surfacing process drift from LC/MS, chromatography, and instrument logs before failures happen.  
-- **RAG & Semantic Search** → Turning messy knowledge bases into intelligent, queryable systems.  
-- **Multimodal AI Analyzers** → Linking text, image, and layout features to measurable performance outcomes.  
-- **Operational Pipelines** → Embedding AI directly into existing stacks (SAP, ELN/LIMS, IIoT, Azure).  
+I build **human-centered AI systems** that combine my ops background with modern AI:  
+
+- **OCR + Document AI** → Converting messy scanned data into structured, compliant, 21 CFR Part 11–ready datasets.  
+- **Predictive Modeling** → Detecting process drift in LC/MS, chromatography, and instrument logs before failures happen.  
+- **Operational RAG** → Embedding-aware semantic search to tame sprawling knowledge bases.  
+- **Multimodal Analyzers** → Linking image + text + layout to real outcomes (creative, scientific, operational).  
+- **AI in Enterprise Contexts** → Designing pipelines that run alongside **SAP, ELN/LIMS, IIoT, Azure, and enterprise stacks** without breaking ops.  
 
 ---
 
 ## 📈 Traction & Proof
-I’ve delivered real systems that show measurable value:  
+My work spans both **enterprise IT ops** and **AI innovation**:
 
 | 🚧 Project | 🛠️ What It Does |  
 |------------|-----------------|  
-| 🔊 **AI-Insight Video Processor** | Converts video → transcript, quiz, captions, and insights with Whisper + CUDA + FFmpeg |  
-| 🧠 **RAG + ArangoDB Stack** | Embedding-aware semantic search for high-relevance knowledge retrieval |  
-| 🧬 **Manufacturing Ops AI Tools** | OCR → classification → audit logs → insights for regulatory compliance |  
-| 🎨 **Multimodal Campaign Analyzer** | Correlates creative asset design with donor behavior & outcomes |  
-| 🤖 **Agentic AI Personas** | Dynamic prompt-tuned “AI teammates” with hyperparameter personality knobs |  
-| 🧪 **MUSE** | Evaluates creative assets across composition, tone, and performance impact |  
-| 🎥 **SCENE** | Multimodal video intelligence → segmentation, summaries, story arcs |  
+| 🔧 **Enterprise Ops Systems** | Diagnostic & monitoring platforms → reduced resolution times, created proactive service delivery, new billable services |  
+| 🧬 **Manufacturing Ops AI Tools** | OCR → AI classification → audit logs → insights for regulated environments |  
+| 🧠 **RAG + ArangoDB Stack** | Vector search + embeddings for enterprise-scale semantic knowledge retrieval |  
+| 🎥 **SCENE** | Whisper + multimodal video intelligence → segmentation, summaries, story arcs |  
+| 🎨 **Multimodal Campaign Analyzer** | Combines layout, copy, and imagery to predict donor behavior |  
 
-Each project shares one DNA: **designed to be understood, used, and trusted in real workflows.**
+Every system shares one core DNA: **built for operators, designed to last, and aligned with real-world constraints.**
 
 ---
 
-## 📊 Impact & ROI
-- **Reduced Cycle Time** → Automating data prep & audits = faster throughput.  
-- **Improved Compliance** → Structured, labeled, auditable datasets for regulated environments.  
-- **Enhanced Decision-Making** → AI surfaces the signal, humans keep control.  
-- **Operational Fit** → Every solution built to slot into existing stacks (Databricks, Azure, Power BI, ArangoDB, etc.).  
-
-I don’t build “lab experiments.” I build **Iron Man suits for operators.**
+## 📊 Impact
+- **Throughput** → Automated pipelines that shave hours/days off manual processes.  
+- **Compliance** → Structured data ready for audits and regulated workflows.  
+- **Resilience** → Systems designed with ops discipline: monitoring, scaling, and accountability.  
+- **Adoption** → Coaching teams to move from spreadsheets → modern AI/analytics tools without losing trust.  
 
 ---
 
 ## 👥 The Team (That’s Me + You)
-- **My Role**: AI Engineer / Data Scientist → bridging math, code, and messy real-world systems.  
-- **Your Role**: Domain experts (scientists, planners, builders, ops).  
-- **Together**: We accelerate adoption, coach teams, and move from Excel hacks → production AI pipelines.  
-
----
-
-## 🎯 The Ask
-If you’re looking for someone who can:  
-- Discover **high-impact AI use cases** by shadowing workflows  
-- Design, test, and **operationalize models in regulated environments**  
-- Coach teams on adoption, usage, and long-term ownership  
-- Deliver **measurable outcomes** (not just prototypes)…  
-
-👉 Then I’m your investment.  
+- **My Role**: Engineer + operator → building tools that scale and survive in production.  
+- **Your Role**: Domain experts who know the business pain points.  
+- **Together**: We accelerate adoption, cut inefficiency, and transform experiments into enterprise-ready AI.  
 
 ---
 
 ## 🧰 My Stack
-Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines  
+Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines • Enterprise IT Ops  
 
 ---
 
@@ -87,8 +75,8 @@ Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpe
 AI isn’t magic.  
 It’s **math + context — and context is always human.**
 
-We’re not here to replace people.  
-We’re here to **remove chaos, reveal signal, and bring our best work to the surface.**
+I don’t build hype.  
+I build **Iron Man suits for operators.**
 
 ---
 
