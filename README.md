@@ -6,11 +6,13 @@
 ---
 
 ## 🎤 The Pitch
-I’m Benn, an **AI Engineer and pragmatic builder** who designs **AI systems that amplify people rather than replace them.**  
+I’m Benn — a **pragmatic idealist** and **solutions engineer** with roots in **IT service delivery and operations**.  
+I cut my teeth keeping enterprise platforms running — as an **escalation engineer** for hardware, software, SaaS, and PaaS — where uptime, customer trust, and clear communication mattered more than buzzwords.  
 
-Think of me as the **translator between AI capabilities and real-world operations** — turning complexity into clarity, chaos into context, and experiments into production-grade systems.  
+Now I bring that same discipline into **AI engineering**.  
+Over the past five years, I’ve focused on using AI *where it truly fits*: to cut through complexity, surface clarity, and extend human capability.  
 
-But before I was building custom RAG stacks and multimodal analyzers, I spent years in **IT operations and service delivery**, running enterprise platforms where uptime, stability, and scalability weren’t optional — they were the mission. That background means I design AI with the same mindset: **resilient, accountable, and ready for production.**
+Think of me as the **translator between AI potential and operational reality** — turning frontline pain points into production-ready systems that people can actually use and trust.  
 
 > 🧘 “I don’t replace the operator — I give them the Iron Man suit. 鉄人”
 
