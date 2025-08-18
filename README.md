@@ -17,17 +17,18 @@ I specialize in translating between **AI capability and operational need**, deli
 ---
 
 ## 🩹 The Problem
-Modern operations — whether in manufacturing, logistics, or creative workflows — face:  
-- **Data overload**: scanned records, instrument logs, and compliance docs that resist easy analysis.  
-- **Inefficiency**: manual workflows that slow throughput and introduce risk.  
-- **High stakes**: regulated environments where errors mean cost, delay, or compliance risk.  
+Across industries — manufacturing, logistics, IT operations, service delivery, creative production, and live events — organizations face a consistent set of challenges:  
 
-Teams need more than dashboards — they need **AI that integrates into their systems, augments their decisions, and scales with their reality.**
+- **Volume and complexity of data**: telemetry, logs, and documents that are difficult to parse into insight.  
+- **Operational inefficiency**: manual workflows, redundant processes, and siloed systems that limit throughput.  
+- **High-stakes visibility**: regulated production lines, client-facing platforms, and live broadcasts where transparency and precision are non-negotiable.  
+- **Skills gap in emerging technologies**: teams benefit from upskilling in AI, machine learning, and pattern recognition, but practical adoption remains slow.  
+
+The problem is not a lack of tools or dashboards. It is the **translation gap** between overwhelming data streams and the clarity required for resilient, transparent, and trusted decision-making.  
 
 ---
 
 
----
 
 ## 👥 The Team (That’s Me + You)
 - **My Role**: Engineer + operator → building tools that scale and survive in production.  
