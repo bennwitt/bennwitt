@@ -40,7 +40,7 @@ My focus is not on hype, but on **practical tools** that integrate seamlessly in
    - **Context Preservation** → Maintains structure and metadata for accurate retrieval and reuse.  
 
 - 📊 **Predictive Monitoring**  
-   - **HOLA (Holistic Log Analyzer)** → Centralizes telemetry, logs, and metrics using ELK for drift detection and anomaly surfacing.  
+   - **HOLA (Holistic Log Analyzer)** → Centralizes telemetry, logs, and metrics using Elastic Search Kiban Grafana for drift detection and anomaly surfacing.  
    - **MMS (Monitoring & Metrics Service)** → Tracks encoders, servers, and worker farm queues to ensure uptime in high-visibility, client-facing environments.  
    - **Ops Discipline** → Designed with escalation workflows in mind — proactive instead of reactive.  
    - **Resilient by Design** → Patterns and anomalies surfaced early to prevent outages and failures.  
@@ -79,7 +79,7 @@ make complex systems **usable, reliable, and valuable**.
    - Created **new billable service offerings** by productizing operational insights.  
 
 - 📊 **HOLA (Holistic Log Analyzer)**  
-   - Centralized logs, telemetry, and metrics in Elastic Search Kiban Grafana.  
+   - Centralized logs, telemetry, and metrics in Elastic LogSearch Kiban Grafana.  
    - Surfaced **drift, anomalies, and hidden failure patterns**.  
    - Gave ops teams **visibility across distributed systems** in real time.  
 
@@ -168,7 +168,7 @@ make complex systems **usable, reliable, and valuable**.
 ## 🧰 My Stack  
 
 **Core Tools I Work With**  
-Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines • Enterprise IT Ops • Azure AI Foundry
+Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines • Enterprise IT Ops • Azure AI Foundry • Elastic LogSearch • Kiban • Grafana
 
 **My Philosophy**  
 This stack is not static.  
