@@ -12,7 +12,7 @@ My foundation was built in escalation engineering for hardware, software, SaaS, 
 In the past five years, I have extended this foundation with **AI-driven solutions** — using machine learning and automation to reduce inefficiency, improve clarity, and scale services and delivery.  
 
 I specialize in translating between **AI capability and operational need**, delivering solutions that align with real-world constraints while creating measurable business value.  
-> 🧘 “I don’t replace the operator — I give them the Iron Man suit. 鉄人”
+> 🧘 “I don’t replace the operator — I give them the 鉄人 suit. ”
 
 ---
 
@@ -165,8 +165,16 @@ make complex systems **usable, reliable, and valuable**.
 
 ---
 
-## 🧰 My Stack
-Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines • Enterprise IT Ops  
+## 🧰 My Stack  
+
+**Core Tools I Work With**  
+Python • FastAPI • ArangoDB • OpenAI • W&B • Docker • CUDA • FFmpeg • Azure • PyTorch • NVIDIA • Custom RAG • OCR Pipelines • Enterprise IT Ops • Azure AI Foundry
+
+**My Philosophy**  
+This stack is not static.  
+- Not every problem is a nail, so I don’t swing just one hammer.  
+- I stay **fluid like water** — adapting form and flow to fit the environment, the constraints, and the people involved.  
+- The value is not in the tool itself, but in choosing the right one, shaping it, and delivering it in a way that actually works.  
 
 ---
 
@@ -175,7 +183,7 @@ AI isn’t magic.
 It’s **math + context — and context is always human.**
 
 I don’t build hype.  
-I build **Iron Man suits for operators.**
+I build **鉄人 Iron Man suits for operators.**
 
 ---
 
