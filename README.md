@@ -1,13 +1,13 @@
-<h1 align="center">🤖 Benn Witt</h1>
-<h2 align="center">ben₂ wit₂ |{A,a}✖️{I,i}|</h2>
+<h1 align="center">Benn Witt</h1>
+<h3 align="center">ben₂ wit₂ |{A,a}✖️{I,i}|</h3>
 
-<p align="center"><em>“I currently build AI solutions that empower people, not replace them.”</em></p>
-<p align="center"><strong>Human-Centered AI Engineer • Builder of Tools that Empower • Advocate for Augmentation, Not Replacement</strong></p>
+<p align="center"><strong>AI engineer. I build tools that make people more capable, not replaceable.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/bennwitt?tab=repositories"><img src="https://img.shields.io/badge/-repositories-181717?logo=github&logoColor=white" alt="Repositories"></a>
-  <img src="https://komarev.com/ghpvc/?username=bennwitt&style=flat&color=blue&label=profile+views" alt="Profile views">
+Most of what lives here is Python aimed at practical AI: serving open models locally with vLLM, writing Model Context Protocol servers that give assistants real abilities, turning messy chat history and documents into knowledge graphs you can actually query, and keeping private data private with redaction tooling. The side quests are computer vision and 3D printing.
 </p>
+
+<p align="center"><code>Python</code> · <code>vLLM</code> · <code>MCP servers</code> · <code>Knowledge graphs & RAG</code> · <code>PII redaction</code> · <code>Computer vision</code> · <code>Azure</code></p>
 
 ## 🔭 Now building
 <!--START_SECTION:now-->
@@ -28,10 +28,7 @@
 **11** repos · **3** public · **8** private · **5** active this month · **91** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bennwitt&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak">
-</p>
+<p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
 
 ## 📦 Projects
 <!--START_SECTION:projects-->
@@ -73,11 +70,6 @@ PowerShell  ░░░░░░░░░░░░░░░░░░░░░░�
 Bicep       ░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
 ```
 <!--END_SECTION:languages-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bennwitt/bennwitt/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bennwitt/bennwitt/output/github-snake.svg">
-</picture>
 
 ---
 <p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-15 22:33 UTC.<!--END_SECTION:updated--></sub></p>
