@@ -59,8 +59,9 @@ def fetch_repos() -> list[dict]:
     try:
         repos = gh("user/repos?affiliation=owner&per_page=100&sort=pushed", paginate=True)
         scope = "owner"
-    except RuntimeError:
+    except RuntimeError as err:
         # GITHUB_TOKEN from Actions cannot call /user; fall back to public data.
+        print(f"owner view unavailable ({err}); falling back to public repos", file=sys.stderr)
         repos = gh(f"users/{LOGIN}/repos?type=owner&per_page=100&sort=pushed", paginate=True)
         scope = "public"
     repos = [

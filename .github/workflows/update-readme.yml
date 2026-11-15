@@ -27,6 +27,16 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Report which token is in use
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_TOKEN" ]; then
+            echo "PROFILE_TOKEN is missing or empty: using GITHUB_TOKEN, public repos only"
+          else
+            echo "PROFILE_TOKEN is set (${#PROFILE_TOKEN} characters)"
+          fi
+
       - name: Regenerate README sections
         env:
           # PROFILE_TOKEN (a fine-grained PAT with read access to all repos) lets
