@@ -25,7 +25,7 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**11** repos · **3** public · **8** private · **5** active this month · **92** commits in the last 30 days · most used: **Python**
+**10** repos · **3** public · **7** private · **5** active this month · **92** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -41,7 +41,6 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 | 🔒 **pii-redactor** | Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports. | Python | 2026-11-03 | 🟢 active |
 | 🔒 **z0e_surf** | Zoe Surf: governed multimodal agent platform with an MCP tool registry, permission gateway, and Playwright-first browsing on vLLM-served models. | Python | 2026-09-17 | 🟡 recent |
 | **[cityPrinter3d](https://github.com/bennwitt/cityPrinter3d)** | Turn any patch of the real world into a 3D-printable city — straight from OpenStreetMap | Python | 2026-06-19 | ⚪ quiet |
-| 🔒 **vllmWork** | Launch configs and Modal scripts for serving Gemma and Qwen models with vLLM, including vision and image-insight experiments. | Python | 2026-05-02 | ⚪ quiet |
 | 🔒 **chatDeux** | Self-hosted research workstation: graph-aware recall over ChatGPT history, GPU CLIP search, Flux image editing, and multimodal reasoning in one UI. | Python | 2026-03-14 | ⚪ quiet |
 | 🔒 **chat-charisma** | MCP server that gives chat assistants selectable personas, with an Azure deployment script. | Python | 2025-12-19 | ⚪ quiet |
 | **[velocityView](https://github.com/bennwitt/velocityView)** | Webcam vehicle speed detection and violation logging with YOLOv11, OpenCV, and CUDA. No radar, just painted tick marks on the road. | Python | 2025-09-03 | ⚪ quiet |
@@ -63,14 +62,14 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 ## 🧰 Languages
 <!--START_SECTION:languages-->
 ```text
-Python      █████████████████████░░░   87.6%
+Python      █████████████████████░░░   87.4%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
-TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    3.2%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.8%
-PowerShell  ░░░░░░░░░░░░░░░░░░░░░░░░    1.7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.9%
+PowerShell  ░░░░░░░░░░░░░░░░░░░░░░░░    1.8%
 Bicep       ░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
 ```
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-15 22:50 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-15 23:03 UTC.<!--END_SECTION:updated--></sub></p>
