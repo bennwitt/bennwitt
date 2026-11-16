@@ -12,11 +12,11 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 ## 🔭 Now building
 <!--START_SECTION:now-->
 - 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
-  <sub>`Python` · pushed just now · 2 open issues</sub>
+  <sub>`Python` · pushed just now</sub>
+- **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
+  <sub>`Python` · pushed 7h ago</sub>
 - 🔒 **vllm_llama** — Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services.  
   <sub>`Python` · pushed 8 days ago · 5 open issues</sub>
-- **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
-  <sub>`Python` · pushed 8 days ago · 10 open issues</sub>
 - 🔒 **kg-ledger** — Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX.  
   <sub>`Python` · pushed 9 days ago · 7 open issues</sub>
 - 🔒 **pii-redactor** — Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports.  
@@ -25,7 +25,7 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**10** repos · **3** public · **7** private · **5** active this month · **92** commits in the last 30 days · most used: **Python**
+**10** repos · **3** public · **7** private · **5** active this month · **75** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -34,9 +34,9 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:projects-->
 | Project | About | Lang | Last push | Status |
 |---|---|---|---|---|
-| 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-15 | 🟢 active |
+| 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-16 | 🟢 active |
+| **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-15 | 🟢 active |
 | 🔒 **vllm_llama** | Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services. | Python | 2026-11-07 | 🟢 active |
-| **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-06 | 🟢 active |
 | 🔒 **kg-ledger** | Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX. | Python | 2026-11-06 | 🟢 active |
 | 🔒 **pii-redactor** | Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports. | Python | 2026-11-03 | 🟢 active |
 | 🔒 **z0e_surf** | Zoe Surf: governed multimodal agent platform with an MCP tool registry, permission gateway, and Playwright-first browsing on vLLM-served models. | Python | 2026-09-17 | 🟡 recent |
@@ -48,11 +48,12 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
-- `2026-11-15` 🔒 **go-cart-prj** · Record approved Recluse design direction and reconcile project tooling …
-- `2026-11-15` 🔒 **go-cart-prj** · Initialize private kart project with sources and discovery
+- `2026-11-16` 🔒 **go-cart-prj** · Develop seat-front constraints and provisional pedal linkage study (#5)
+- `2026-11-16` 🔒 **go-cart-prj** · Allow uv-build 0.13 and document the validated build toolchain (#2)
+- `2026-11-16` 🔒 **go-cart-prj** · Bump astral-sh/setup-uv from 10.2.0 to 10.3.3 (#1)
+- `2026-11-15` **[repo-template](https://github.com/bennwitt/repo-template)** · [docs(cheat-sheet): Add machine and repo update workflow to cheat sheet](https://github.com/bennwitt/repo-template/commit/56723dfe4f6f3b6319916cf64c6cbba4de11c695)
 - `2026-11-06` **[repo-template](https://github.com/bennwitt/repo-template)** · [Run catalog maintenance only on demand](https://github.com/bennwitt/repo-template/commit/6055184daa9db03364be14067718728a4efcda45)
 - `2026-11-06` **[repo-template](https://github.com/bennwitt/repo-template)** · [Modernize catalog maintenance and optional agent integrations](https://github.com/bennwitt/repo-template/commit/685a40d65235c44a60fa8a1f3dc01481a3fd0185)
-- `2026-11-04` **[repo-template](https://github.com/bennwitt/repo-template)** · [test: wait for background PR completion message](https://github.com/bennwitt/repo-template/commit/b84adabe27183f818ca0f8c2dbf9a7d73f5fb151)
 - `2026-11-03` 🔒 **pii-redactor** · first commit
 - `2026-11-03` 🔒 **vllm_llama** · docs(agents): Add workflow guidance and refresh template metadata
 - `2026-11-03` 🔒 **vllm_llama** · feat(charlottes_mcp): add adaptive browser translator and evidence tools
@@ -62,7 +63,7 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 ## 🧰 Languages
 <!--START_SECTION:languages-->
 ```text
-Python      █████████████████████░░░   87.4%
+Python      █████████████████████░░░   87.5%
 TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.9%
@@ -72,4 +73,4 @@ Bicep       ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-15 23:07 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-16 06:41 UTC.<!--END_SECTION:updated--></sub></p>
