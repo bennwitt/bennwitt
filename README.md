@@ -11,21 +11,21 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## 🔭 Now building
 <!--START_SECTION:now-->
-- 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
-  <sub>`Python` · pushed just now</sub>
 - **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
-  <sub>`Python` · pushed 7h ago</sub>
+  <sub>`Python` · pushed 3h ago</sub>
+- 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
+  <sub>`Python` · pushed 15h ago</sub>
+- 🔒 **z0ey-bot**  
+  <sub>`Shell` · pushed 16h ago</sub>
 - 🔒 **vllm_llama** — Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services.  
-  <sub>`Python` · pushed 8 days ago · 5 open issues</sub>
+  <sub>`Python` · pushed 9 days ago · 5 open issues</sub>
 - 🔒 **kg-ledger** — Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX.  
-  <sub>`Python` · pushed 9 days ago · 7 open issues</sub>
-- 🔒 **pii-redactor** — Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports.  
-  <sub>`Python` · pushed 12 days ago · 6 open issues</sub>
+  <sub>`Python` · pushed 10 days ago · 7 open issues</sub>
 <!--END_SECTION:now-->
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**10** repos · **3** public · **7** private · **5** active this month · **75** commits in the last 30 days · most used: **Python**
+**11** repos · **3** public · **8** private · **6** active this month · **106** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -34,8 +34,9 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:projects-->
 | Project | About | Lang | Last push | Status |
 |---|---|---|---|---|
+| **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-17 | 🟢 active |
 | 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-16 | 🟢 active |
-| **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-15 | 🟢 active |
+| 🔒 **z0ey-bot** |  | Shell | 2026-11-16 | 🟢 active |
 | 🔒 **vllm_llama** | Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services. | Python | 2026-11-07 | 🟢 active |
 | 🔒 **kg-ledger** | Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX. | Python | 2026-11-06 | 🟢 active |
 | 🔒 **pii-redactor** | Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports. | Python | 2026-11-03 | 🟢 active |
@@ -48,29 +49,29 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
+- `2026-11-17` **[repo-template](https://github.com/bennwitt/repo-template)** · [feat: add the figma pack](https://github.com/bennwitt/repo-template/commit/62b2f7367a5d7ce8be557c565ab98e984c3afdad)
+- `2026-11-16` **[repo-template](https://github.com/bennwitt/repo-template)** · [fix: add a new repository's granted servers after git init](https://github.com/bennwitt/repo-template/commit/2c337a2fe5c3cdada43235349b35e8facf64caa9)
+- `2026-11-16` **[repo-template](https://github.com/bennwitt/repo-template)** · [fix: find repository servers through the linked ~/.agents](https://github.com/bennwitt/repo-template/commit/110c4870abf77ce1c8f2a42395412769fd8acfc5)
+- `2026-11-16` 🔒 **go-cart-prj** · Document rear axle assembly constraints and initial mass basis (#7)
+- `2026-11-16` 🔒 **z0ey-bot** · docs: record merged PRs and verified branch protections
+- `2026-11-16` 🔒 **z0ey-bot** · fix(github): use supported branch creation restrictions
+- `2026-11-16` 🔒 **z0ey-bot** · chore(github): enforce dev-to-main delivery policy
+- `2026-11-16` 🔒 **go-cart-prj** · Integrate front-bay fit, pedal lanes and control package proposal (#6)
 - `2026-11-16` 🔒 **go-cart-prj** · Develop seat-front constraints and provisional pedal linkage study (#5)
-- `2026-11-16` 🔒 **go-cart-prj** · Allow uv-build 0.13 and document the validated build toolchain (#2)
-- `2026-11-16` 🔒 **go-cart-prj** · Bump astral-sh/setup-uv from 10.2.0 to 10.3.3 (#1)
-- `2026-11-15` **[repo-template](https://github.com/bennwitt/repo-template)** · [docs(cheat-sheet): Add machine and repo update workflow to cheat sheet](https://github.com/bennwitt/repo-template/commit/56723dfe4f6f3b6319916cf64c6cbba4de11c695)
-- `2026-11-06` **[repo-template](https://github.com/bennwitt/repo-template)** · [Run catalog maintenance only on demand](https://github.com/bennwitt/repo-template/commit/6055184daa9db03364be14067718728a4efcda45)
-- `2026-11-06` **[repo-template](https://github.com/bennwitt/repo-template)** · [Modernize catalog maintenance and optional agent integrations](https://github.com/bennwitt/repo-template/commit/685a40d65235c44a60fa8a1f3dc01481a3fd0185)
 - `2026-11-03` 🔒 **pii-redactor** · first commit
-- `2026-11-03` 🔒 **vllm_llama** · docs(agents): Add workflow guidance and refresh template metadata
-- `2026-11-03` 🔒 **vllm_llama** · feat(charlottes_mcp): add adaptive browser translator and evidence tools
-- `2026-11-03` 🔒 **vllm_llama** · feat(charlottes_mcp): Bootstrap standalone Charlotte MCP research servi…
 <!--END_SECTION:activity-->
 
 ## 🧰 Languages
 <!--START_SECTION:languages-->
 ```text
-Python      █████████████████████░░░   87.5%
-TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
+Python      █████████████████████░░░   87.6%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    3.3%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.9%
-PowerShell  ░░░░░░░░░░░░░░░░░░░░░░░░    1.8%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    3.2%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.8%
+PowerShell  ░░░░░░░░░░░░░░░░░░░░░░░░    1.7%
 Bicep       ░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
 ```
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-16 06:41 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-17 06:29 UTC.<!--END_SECTION:updated--></sub></p>
