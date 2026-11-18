@@ -11,21 +11,21 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## 🔭 Now building
 <!--START_SECTION:now-->
-- **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
-  <sub>`Python` · pushed 3h ago</sub>
-- 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
-  <sub>`Python` · pushed 15h ago</sub>
 - 🔒 **z0ey-bot**  
-  <sub>`Shell` · pushed 16h ago</sub>
+  <sub>`Shell` · pushed just now</sub>
+- **[one-contxt](https://github.com/bennwitt/one-contxt)** — kg fuzzy rag bm25 regeX  
+  <sub>pushed 6h ago</sub>
+- **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
+  <sub>`Python` · pushed yesterday</sub>
+- 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
+  <sub>`Python` · pushed yesterday</sub>
 - 🔒 **vllm_llama** — Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services.  
-  <sub>`Python` · pushed 9 days ago · 5 open issues</sub>
-- 🔒 **kg-ledger** — Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX.  
-  <sub>`Python` · pushed 10 days ago · 7 open issues</sub>
+  <sub>`Python` · pushed 10 days ago · 5 open issues</sub>
 <!--END_SECTION:now-->
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**11** repos · **3** public · **8** private · **6** active this month · **106** commits in the last 30 days · most used: **Python**
+**12** repos · **4** public · **8** private · **7** active this month · **91** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -34,9 +34,10 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:projects-->
 | Project | About | Lang | Last push | Status |
 |---|---|---|---|---|
+| 🔒 **z0ey-bot** |  | Shell | 2026-11-18 | 🟢 active |
+| **[one-contxt](https://github.com/bennwitt/one-contxt)** | kg fuzzy rag bm25 regeX |  | 2026-11-17 | 🟢 active |
 | **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-17 | 🟢 active |
 | 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-16 | 🟢 active |
-| 🔒 **z0ey-bot** |  | Shell | 2026-11-16 | 🟢 active |
 | 🔒 **vllm_llama** | Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services. | Python | 2026-11-07 | 🟢 active |
 | 🔒 **kg-ledger** | Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX. | Python | 2026-11-06 | 🟢 active |
 | 🔒 **pii-redactor** | Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports. | Python | 2026-11-03 | 🟢 active |
@@ -58,7 +59,6 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 - `2026-11-16` 🔒 **z0ey-bot** · chore(github): enforce dev-to-main delivery policy
 - `2026-11-16` 🔒 **go-cart-prj** · Integrate front-bay fit, pedal lanes and control package proposal (#6)
 - `2026-11-16` 🔒 **go-cart-prj** · Develop seat-front constraints and provisional pedal linkage study (#5)
-- `2026-11-03` 🔒 **pii-redactor** · first commit
 <!--END_SECTION:activity-->
 
 ## 🧰 Languages
@@ -74,4 +74,4 @@ Bicep       ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-17 06:29 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-18 06:28 UTC.<!--END_SECTION:updated--></sub></p>
