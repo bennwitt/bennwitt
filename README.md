@@ -12,20 +12,20 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 ## 🔭 Now building
 <!--START_SECTION:now-->
 - 🔒 **ohm-contxt** — context layer philosophy  
-  <sub>`Python` · pushed 4h ago</sub>
+  <sub>`Python` · pushed 4h ago · 1 open issue</sub>
 - **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
-  <sub>`Python` · pushed 5h ago</sub>
+  <sub>`Python` · pushed 13h ago · 4 open issues</sub>
 - 🔒 **sys1-hub** — system1 hub returns one or both generated system1 prompts static and dynamic and system1 responses  
-  <sub>`Python` · pushed 13h ago · 2 open issues</sub>
+  <sub>`Python` · pushed yesterday · 2 open issues</sub>
 - 🔒 **z0ey-bot**  
-  <sub>`Shell` · pushed 20h ago</sub>
+  <sub>`Shell` · pushed yesterday</sub>
 - 🔒 **zllama** — z llama cpp  
-  <sub>pushed 21h ago</sub>
+  <sub>pushed yesterday</sub>
 <!--END_SECTION:now-->
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**14** repos · **3** public · **11** private · **9** active this month · **108** commits in the last 30 days · most used: **Python**
+**14** repos · **3** public · **11** private · **9** active this month · **110** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -34,7 +34,7 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:projects-->
 | Project | About | Lang | Last push | Status |
 |---|---|---|---|---|
-| 🔒 **ohm-contxt** | context layer philosophy | Python | 2026-11-20 | 🟢 active |
+| 🔒 **ohm-contxt** | context layer philosophy | Python | 2026-11-21 | 🟢 active |
 | **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-20 | 🟢 active |
 | 🔒 **sys1-hub** | system1 hub returns one or both generated system1 prompts static and dynamic and system1 responses | Python | 2026-11-19 | 🟢 active |
 | 🔒 **z0ey-bot** |  | Shell | 2026-11-19 | 🟢 active |
@@ -52,9 +52,9 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## ⚡ Recent activity
 <!--START_SECTION:activity-->
+- `2026-11-21` 🔒 **ohm-contxt** · feat: add vector, RAG, and persona administration (#7)
+- `2026-11-21` 🔒 **ohm-contxt** · feat: deliver Contxt knowledge agent and reproducible deployments (#6)
 - `2026-11-20` 🔒 **ohm-contxt** · chore(repo-template): Ignore local kg-ledger clone and update template …
-- `2026-11-20` 🔒 **ohm-contxt** · build(deps-dev): Update uv-build requirement (#3)
-- `2026-11-20` 🔒 **ohm-contxt** · build(deps): Bump astral-sh/setup-uv from 10.2.0 to 10.3.3 (#2)
 - `2026-11-19` **[repo-template](https://github.com/bennwitt/repo-template)** · [feat: add the pragmatic-design pack with the 72% plan skill](https://github.com/bennwitt/repo-template/commit/867459102b3c28fdac80a8a47ef07dec31bcd8d5)
 - `2026-11-19` 🔒 **sys1-hub** · feat(hub): add bounded optimization and model evaluation evidence
 - `2026-11-19` **[repo-template](https://github.com/bennwitt/repo-template)** · [feat: add optional UX design skill pack](https://github.com/bennwitt/repo-template/commit/f44635c1c21a80449260cad84510458c67af0f7b)
@@ -68,13 +68,13 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:languages-->
 ```text
 Python      ████████████████████░░░░   82.1%
-JavaScript  ██░░░░░░░░░░░░░░░░░░░░░░    9.6%
+JavaScript  ██░░░░░░░░░░░░░░░░░░░░░░    9.4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    3.0%
 TypeScript  █░░░░░░░░░░░░░░░░░░░░░░░    2.6%
 PowerShell  ░░░░░░░░░░░░░░░░░░░░░░░░    1.4%
-Bicep       ░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
+Bicep       ░░░░░░░░░░░░░░░░░░░░░░░░    0.6%
 ```
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-20 06:28 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-21 06:26 UTC.<!--END_SECTION:updated--></sub></p>
