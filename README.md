@@ -11,16 +11,16 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 
 ## 🔭 Now building
 <!--START_SECTION:now-->
+- 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
+  <sub>`Python` · pushed 9h ago · 2 open issues</sub>
 - 🔒 **vllm_llama** — Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services.  
-  <sub>`Python` · pushed 12h ago · 6 open issues</sub>
+  <sub>`Python` · pushed yesterday · 6 open issues</sub>
 - 🔒 **ohm-contxt** — context layer philosophy  
-  <sub>`Python` · pushed yesterday · 1 open issue</sub>
+  <sub>`Python` · pushed 2 days ago · 1 open issue</sub>
 - **[repo-template](https://github.com/bennwitt/repo-template)** — CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex.  
-  <sub>`Python` · pushed yesterday · 4 open issues</sub>
+  <sub>`Python` · pushed 2 days ago · 4 open issues</sub>
 - 🔒 **sys1-hub** — system1 hub returns one or both generated system1 prompts static and dynamic and system1 responses  
-  <sub>`Python` · pushed 2 days ago · 2 open issues</sub>
-- 🔒 **z0ey-bot**  
-  <sub>`Shell` · pushed 2 days ago</sub>
+  <sub>`Python` · pushed 3 days ago · 2 open issues</sub>
 <!--END_SECTION:now-->
 
 ## 📊 At a glance
@@ -34,13 +34,13 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 <!--START_SECTION:projects-->
 | Project | About | Lang | Last push | Status |
 |---|---|---|---|---|
+| 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-22 | 🟢 active |
 | 🔒 **vllm_llama** | Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services. | Python | 2026-11-21 | 🟢 active |
 | 🔒 **ohm-contxt** | context layer philosophy | Python | 2026-11-21 | 🟢 active |
 | **[repo-template](https://github.com/bennwitt/repo-template)** | CLI that creates and updates Python/uv repos to one standard, plus a versioned catalog of agent skills for Claude Code and Codex. | Python | 2026-11-20 | 🟢 active |
 | 🔒 **sys1-hub** | system1 hub returns one or both generated system1 prompts static and dynamic and system1 responses | Python | 2026-11-19 | 🟢 active |
 | 🔒 **z0ey-bot** |  | Shell | 2026-11-19 | 🟢 active |
 | 🔒 **zllama** | z llama cpp |  | 2026-11-19 | 🟢 active |
-| 🔒 **go-cart-prj** | Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning. | Python | 2026-11-16 | 🟢 active |
 | 🔒 **kg-ledger** | Evidence-anchored knowledge graphs from text: closed-vocabulary extraction, entity resolution, an eval harness, and an Azure admin UX. | Python | 2026-11-06 | 🟢 active |
 | 🔒 **pii-redactor** | Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports. | Python | 2026-11-03 | 🟢 active |
 | 🔒 **z0e_surf** | Zoe Surf: governed multimodal agent platform with an MCP tool registry, permission gateway, and Playwright-first browsing on vLLM-served models. | Python | 2026-09-17 | 🟡 recent |
@@ -77,4 +77,4 @@ Bicep       ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-22 06:26 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-23 06:37 UTC.<!--END_SECTION:updated--></sub></p>
