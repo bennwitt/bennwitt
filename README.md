@@ -12,20 +12,20 @@ Most of what lives here is Python aimed at practical AI: serving open models loc
 ## 🔭 Now building
 <!--START_SECTION:now-->
 - 🔒 **sys1-hub** — system1 hub returns one or both generated system1 prompts static and dynamic and system1 responses  
-  <sub>`Python` · pushed 20h ago · 5 open issues</sub>
+  <sub>`Python` · pushed yesterday · 5 open issues</sub>
 - 🔒 **pii-redactor** — Dockerized Gradio app that masks CSV-listed PII in PDFs using OCR, fuzzy and phone-aware matching, and audit reports.  
-  <sub>`Python` · pushed yesterday · 6 open issues</sub>
+  <sub>`Python` · pushed 2 days ago · 6 open issues</sub>
 - 🔒 **z0ey-bot**  
-  <sub>`Shell` · pushed 2 days ago · 2 open issues</sub>
+  <sub>`Shell` · pushed 3 days ago · 2 open issues</sub>
 - 🔒 **go-cart-prj** — Design project for a single-seat square-tube pavement kart: source analysis, discovery docs, and build planning.  
-  <sub>`Python` · pushed 3 days ago · 2 open issues</sub>
+  <sub>`Python` · pushed 4 days ago · 2 open issues</sub>
 - 🔒 **vllm_llama** — Dockerized vLLM stacks serving Muse and Qwen models as OpenAI-compatible endpoints on one RTX A6000, plus MCP research services.  
-  <sub>`Python` · pushed 4 days ago · 6 open issues</sub>
+  <sub>`Python` · pushed 5 days ago · 6 open issues</sub>
 <!--END_SECTION:now-->
 
 ## 📊 At a glance
 <!--START_SECTION:summary-->
-**14** repos · **3** public · **11** private · **9** active this month · **105** commits in the last 30 days · most used: **Python**
+**14** repos · **3** public · **11** private · **9** active this month · **99** commits in the last 30 days · most used: **Python**
 <!--END_SECTION:summary-->
 
 <p align="center"><img height="165" src="https://streak-stats.demolab.com?user=bennwitt&hide_border=true&theme=tokyonight" alt="Contribution streak"></p>
@@ -77,4 +77,4 @@ Bicep       ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:languages-->
 
 ---
-<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-26 06:29 UTC.<!--END_SECTION:updated--></sub></p>
+<p align="center"><sub>🔒 marks a private repo, listed without a link. This page regenerates itself daily with GitHub Actions. <!--START_SECTION:updated-->Last refreshed 2026-11-27 06:29 UTC.<!--END_SECTION:updated--></sub></p>
